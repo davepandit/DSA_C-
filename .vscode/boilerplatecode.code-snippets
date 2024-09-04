@@ -1,0 +1,16 @@
+{
+    "C++ Boilerplate": {
+        "scope": "cpp",
+        "prefix": "cppboiler",
+        "body": [
+            "#include <bits/stdc++.h>",
+            "using namespace std;",
+            "",
+            "int main() {",
+            "    $1",
+            "    return 0;",
+            "}"
+        ],
+        "description": "Basic boilerplate code for a C++ program"
+    }
+}
